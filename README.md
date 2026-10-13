@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syed-ubedullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/syed-ubedullah.svg?label=Profile%20Views&color=0e75b6" alt="Profile Views"/>
 </p>
 
 ---
