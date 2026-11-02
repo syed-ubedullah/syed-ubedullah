@@ -2,19 +2,7 @@
 
 <h3 align="center">Data Analyst | Power BI Developer | SQL Developer</h3>
 
-<p align="center">
-  Microsoft Certified (DP-600) Data Analyst turning raw data into meaningful business insights through analytics, visualization, and business intelligence.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-ubedullah-basha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:syedubedullahbasha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/syed-ubedullah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<p align="center">
-  <img src="https://hits.sh/github.com/syed-ubedullah.svg?label=Profile%20Views&color=0e75b6" alt="Profile Views"/>
-</p>
+</p> <p align="center"> <a href="https://www.linkedin.com/in/syed-ubedullah-basha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:syedubedullahbasha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/syed-ubedullah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p> <p align="center"> <img src="https://hits.sh/github.com/syed-ubedullah.svg?label=Profile%20Views&color=0e75b6" alt="Profile Views"/> </p>
 
 ---
 
@@ -100,17 +88,10 @@
 
 | Project | Tools | Highlights |
 |---------|-------|------------|
-| 💰 **[Financial Performance Analytics Dashboard](https://github.com/syed-ubedullah/financial-performance-analytics-dashboard)** *(Nov 2026)* | Power BI · SQL Server · Python · DAX | Profitability, liquidity, cash flow and valuation of 4,668 Indian listed companies; Python cleaning, SQL Server model with 9 queries and 3 views, 5-page Power BI dashboard with 40+ DAX measures and written insights |
-| 🛒 **E-Commerce Sales & Customer Analytics Dashboard** *(Jun 2026)* | Power BI · SQL · Excel | Sales, customer behavior, product performance, order trends; top products, customer segments, regional trends |
-| 👥 **HR Analytics Dashboard** *(Aug 2025)* | Power BI · Excel | Employee attrition, workforce demographics, department-level performance |
-| 🏬 **Retail Sales Analytics Dashboard** *(Jul 2025)* | Power BI · SQL · Excel | Sales, profit, customer segments, regional performance; DAX measures, drill-through, slicers |
-
-<p align="center">
-  <a href="https://github.com/syed-ubedullah/financial-performance-analytics-dashboard">
-    <img src="https://raw.githubusercontent.com/syed-ubedullah/financial-performance-analytics-dashboard/main/screenshots/01_Overview.png" alt="Financial Performance Analytics Dashboard" width="85%"/>
-  </a>
-</p>
-<p align="center"><i>Latest project: Financial Performance Analytics Dashboard (Nov 2026). Click to view the repository.</i></p>
+| 💰 [**Financial Performance Analytics Dashboard**](https://github.com/syed-ubedullah/financial-performance-analytics-dashboard) *(Nov 2026)* | Power BI · SQL · Python | Revenue, expenses, profit margins, budget vs. actual; data cleaning and EDA with Pandas & NumPy |
+| 🛒 [**E-Commerce Sales & Customer Analytics Dashboard**](https://github.com/syed-ubedullah/Olist-Ecommerce-Analytics-Dashboard) *(Oct 2026)* | Power BI · SQL · Excel | Sales, customer behavior, product performance, order trends; top products, customer segments, regional trends |
+| 👥 [**HR Analytics Dashboard**](https://github.com/syed-ubedullah/IBM-HR-Analytics-Dashboard) *(Sep 2026)* | Power BI · Excel | Employee attrition, workforce demographics, department-level performance |
+| 🏬 [**Retail Sales Analytics Dashboard**](https://github.com/syed-ubedullah/Retail_Sales_Analytics_Dashboard) *(Aug 2026)* | Power BI · SQL · Excel | Sales, profit, customer segments, regional performance; DAX measures, drill-through, slicers |
 
 > 🚧 More projects coming soon...
 
