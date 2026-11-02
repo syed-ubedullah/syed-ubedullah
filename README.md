@@ -100,10 +100,17 @@
 
 | Project | Tools | Highlights |
 |---------|-------|------------|
-| 💰 **Financial Performance Analytics Dashboard** *(Aug 2026)* | Power BI · SQL · Python | Revenue, expenses, profit margins, budget vs. actual; data cleaning and EDA with Pandas & NumPy |
+| 💰 **[Financial Performance Analytics Dashboard](https://github.com/syed-ubedullah/financial-performance-analytics-dashboard)** *(Nov 2026)* | Power BI · SQL Server · Python · DAX | Profitability, liquidity, cash flow and valuation of 4,668 Indian listed companies; Python cleaning, SQL Server model with 9 queries and 3 views, 5-page Power BI dashboard with 40+ DAX measures and written insights |
 | 🛒 **E-Commerce Sales & Customer Analytics Dashboard** *(Jun 2026)* | Power BI · SQL · Excel | Sales, customer behavior, product performance, order trends; top products, customer segments, regional trends |
 | 👥 **HR Analytics Dashboard** *(Aug 2025)* | Power BI · Excel | Employee attrition, workforce demographics, department-level performance |
 | 🏬 **Retail Sales Analytics Dashboard** *(Jul 2025)* | Power BI · SQL · Excel | Sales, profit, customer segments, regional performance; DAX measures, drill-through, slicers |
+
+<p align="center">
+  <a href="https://github.com/syed-ubedullah/financial-performance-analytics-dashboard">
+    <img src="https://raw.githubusercontent.com/syed-ubedullah/financial-performance-analytics-dashboard/main/screenshots/01_Overview.png" alt="Financial Performance Analytics Dashboard" width="85%"/>
+  </a>
+</p>
+<p align="center"><i>Latest project: Financial Performance Analytics Dashboard (Nov 2026). Click to view the repository.</i></p>
 
 > 🚧 More projects coming soon...
 
